@@ -10,6 +10,24 @@
 
 ## Calendar Description
 
+Topic One: Representation
+- What models and intermediate representation are used to model synthesized programs? Do some forms have advantages/disadvantages over others?
+- For program synthesis that is performed to meet criteria contained in a specification, How are constraints/goals modelled in the specification?
+- Are there runtime models are used for program synthesis?. (e.g. virtual machines)
+
+Topic Two: Modelling and Algorithms
+- What are some formal semantic models used for programming languages?
+- What algorithms are used for program synthesis?
+- What types of approaches are taken to generate programs?
+
+Topic Three: Usage
+- What are some applications of program synthesis? 
+- What can program synthesis accomplish that is difficult to do with standard programming?
+- How can a program synthesizing system be evaluated?
+- What is the state of the art?
+- What are some limitations of program synthesis
+- What are some potential research areas of program synthesis?
+
 ## Grading
 * Class Presentations: 30%
 * Assignments: 20%
