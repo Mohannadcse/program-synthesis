@@ -36,12 +36,14 @@ The student will review literature and study advancements in the field. The seco
 ## Reading List (tentative)
 
 ## Background
-- 
 
-### Textbooks
+### Books
+- (Behavioral Program Synthesis with Genetic Programming 2016 (Krawiec, Krzysztof) **Book**)[https://www.springer.com/gp/book/9783319275635]
+- (Program Synthesis 2017 (Gulwani, Oleksandr Polozov, Rishabh Singh) **Book**)[https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf]
+- (Logic Program Synthesis from Incomplete Information 2012 (Flener) **Book**)[https://link.springer.com/book/10.1007%2F978-1-4615-2205-8]
+
 
 ### Survey/Overview
-- [Program Synthesis 2017 (Gulwani, Polozov, and Singh) **Journal article**](https://www.nowpublishers.com/article/Details/PGL-010)
 - [Program Sythesis 2018 (Polozov) **Blog**](https://alexpolozov.com/blog/program-synthesis-2018/)
 - [Program Sythesis in 2019 (Bornholt) **Blog**](https://blog.sigplan.org/2019/07/31/program-synthesis-in-2019/)
 - [Program Synthesis Without Full Specifications for Novel Applications 2015 (Perelman) **Dissertation**](https://homes.cs.washington.edu/~djg/theses/perelman_dissertation.pdf)
