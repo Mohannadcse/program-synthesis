@@ -10,23 +10,12 @@
 
 ## Calendar Description
 
-Topic One: Representation
-- What models and intermediate representation are used to model synthesized programs? Do some forms have advantages/disadvantages over others?
-- For program synthesis that is performed to meet criteria contained in a specification, How are constraints/goals modelled in the specification?
-- Are there runtime models are used for program synthesis?. (e.g. virtual machines)
-
-Topic Two: Modelling and Algorithms
-- What are some formal semantic models used for programming languages?
-- What algorithms are used for program synthesis?
-- What types of approaches are taken to generate programs?
-
-Topic Three: Usage
-- What are some applications of program synthesis? 
-- What can program synthesis accomplish that is difficult to do with standard programming?
-- How can a program synthesizing system be evaluated?
-- What is the state of the art?
-- What are some limitations of program synthesis
-- What are some potential research areas of program synthesis?
+Program synthesize strives to automatically create programs that satisfy a high-level, possibly incomplete, specifications. This course covers the foundations of program synthesis, including methods of program specification, SAT solvers, and program verification in addition to following methods of program synthesis:
+Inductive Synthesis (Including counterexample-guided inductive synthesis)
+Deductive Synthesis
+Superoptimization
+And Oracle-guided synthesis
+The student will review literature and study advancements in the field. The second half of the course is oriented towards creating a project which demonstrates and practicalizes the student's learnings.
 
 ## Grading
 * Class Presentations: 30%
