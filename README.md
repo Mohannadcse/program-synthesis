@@ -54,7 +54,7 @@ The student will review literature and study advancements in the field. The seco
 - [Language to Specify Syntax-Guided Synthesis Problems 2017 (Raghothaman, Udupa) **Article**](https://arxiv.org/pdf/1405.5590.pdf)
 - [The Sketching Approach to Program Synthesis 2009 (Solar-Lezama) **Conference paper**](https://link.springer.com/chapter/10.1007/978-3-642-10672-9_3)
 - [Program Synthesis for Hierarchical Specifications 2014 (Hottelier, Bodik) **Conference paper**](https://www.semanticscholar.org/paper/Program-Synthesis-for-Hierarchical-Specifications-Hottelier-Bodik/315c8a3966282c1f7718e07aa92e6f7ba335974a)
-- [Type-and-example-directed program synthesis 2015 (Osera, Zdancewic) **Conference paper PLDI**] (https://dl.acm.org/citation.cfm?id=2738007)
+- [Type-and-example-directed program synthesis 2015 (Osera, Zdancewic) **Conference paper PLDI**](https://dl.acm.org/citation.cfm?id=2738007)
 
 ## Resources from other courses
 - [Synthesizing Programs with
