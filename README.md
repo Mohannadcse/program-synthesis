@@ -36,6 +36,6 @@ The student will review literature and study advancements in the field. The seco
 
 ### Textbooks
 
-### Survey
-- [Program Synthesis (Gulwani, Polozov, and Singh)](https://www.nowpublishers.com/article/Details/PGL-010)
-
+### Survey/Overview
+- [Program Synthesis 2017 (Gulwani, Polozov, and Singh)](https://www.nowpublishers.com/article/Details/PGL-010)
+- [Program Synthesis Without Full Specifications for Novel Applications 2015 (Perelman)](https://homes.cs.washington.edu/~djg/theses/perelman_dissertation.pdf)
