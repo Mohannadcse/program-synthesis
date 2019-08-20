@@ -11,10 +11,10 @@
 ## Calendar Description
 
 Program synthesize strives to automatically create programs that satisfy a high-level, possibly incomplete, specifications. This course covers the foundations of program synthesis, including methods of program specification, SAT solvers, and program verification in addition to following methods of program synthesis:
-Inductive Synthesis (Including counterexample-guided inductive synthesis)
-Deductive Synthesis
-Superoptimization
-And Oracle-guided synthesis
+- Inductive Synthesis (Including counterexample-guided inductive synthesis)
+- Deductive Synthesis
+- Superoptimization
+- And Oracle-guided synthesis
 The student will review literature and study advancements in the field. The second half of the course is oriented towards creating a project which demonstrates and practicalizes the student's learnings.
 
 ## Grading
