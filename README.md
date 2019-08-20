@@ -35,7 +35,11 @@ The student will review literature and study advancements in the field. The seco
 
 ## Reading List (tentative)
 
-## Background
+### Tools
+- [Programming Z3](https://theory.stanford.edu/~nikolaj/programmingz3.html)
+- [Introduction to Datalog](https://x775.net/2019/03/18/Introduction-to-Datalog.html)
+- [Datalog](https://github.com/oracle/souffle/wiki/user-manual)
+
 
 ### Books
 - [Behavioral Program Synthesis with Genetic Programming 2016 (Krawiec, Krzysztof) **Book**](https://www.springer.com/gp/book/9783319275635)
