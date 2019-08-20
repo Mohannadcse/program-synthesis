@@ -32,5 +32,10 @@ The student will review literature and study advancements in the field. The seco
 | Oct 11 - Dec 5 | Tool improvements and formulation of research problems | Weekly meetings to review tool designs, specify improvements and formulate potential research problems. |
 | Dec 6 | Final project presentation and report | 30 minute presentation + a written conference-style report. |
 
-## Literature
+## Reading List (tentative)
+
+### Textbooks
+
+### Survey
+- [Program Synthesis (Gulwani, Polozov, and Singh)] (https://www.nowpublishers.com/article/Details/PGL-010)
 
