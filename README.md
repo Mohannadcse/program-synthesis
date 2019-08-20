@@ -38,9 +38,9 @@ The student will review literature and study advancements in the field. The seco
 ## Background
 
 ### Books
-- (Behavioral Program Synthesis with Genetic Programming 2016 (Krawiec, Krzysztof) **Book**)[https://www.springer.com/gp/book/9783319275635]
-- (Program Synthesis 2017 (Gulwani, Oleksandr Polozov, Rishabh Singh) **Book**)[https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf]
-- (Logic Program Synthesis from Incomplete Information 2012 (Flener) **Book**)[https://link.springer.com/book/10.1007%2F978-1-4615-2205-8]
+- [Behavioral Program Synthesis with Genetic Programming 2016 (Krawiec, Krzysztof) **Book**](https://www.springer.com/gp/book/9783319275635)
+- [Program Synthesis 2017 (Gulwani, Oleksandr Polozov, Rishabh Singh) **Book**](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf)
+- [Logic Program Synthesis from Incomplete Information 2012 (Flener) **Book**](https://link.springer.com/book/10.1007%2F978-1-4615-2205-8)
 
 
 ### Survey/Overview
