@@ -62,5 +62,5 @@ The student will review literature and study advancements in the field. The seco
 ## Resources from other courses
 - [Synthesizing Programs with
 Constraint Solvers 2012 (Ras Bodik, Emina Torlak) **Slides**](https://homes.cs.washington.edu/~bodik/ucb/Files/2012/CAV-2012.pdf)
-- (Computer-Aided Reasoning for Software **Course**)[https://courses.cs.washington.edu/courses/cse507/14au/sched.html]
+- [Computer-Aided Reasoning for Software **Course**](https://courses.cs.washington.edu/courses/cse507/14au/sched.html)
 
