@@ -14,7 +14,8 @@ Program synthesize strives to automatically create programs that satisfy a high-
 - Inductive Synthesis (Including counterexample-guided inductive synthesis)
 - Deductive Synthesis
 - Superoptimization
-- And Oracle-guided synthesis
+- And Oracle-guided synthesis  
+
 The student will review literature and study advancements in the field. The second half of the course is oriented towards creating a project which demonstrates and practicalizes the student's learnings.
 
 ## Grading
