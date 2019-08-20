@@ -34,8 +34,16 @@ The student will review literature and study advancements in the field. The seco
 
 ## Reading List (tentative)
 
+## Background
+- 
+
 ### Textbooks
 
 ### Survey/Overview
-- [Program Synthesis 2017 (Gulwani, Polozov, and Singh)](https://www.nowpublishers.com/article/Details/PGL-010)
-- [Program Synthesis Without Full Specifications for Novel Applications 2015 (Perelman)](https://homes.cs.washington.edu/~djg/theses/perelman_dissertation.pdf)
+- [Program Synthesis 2017 (Gulwani, Polozov, and Singh) **Journal article**](https://www.nowpublishers.com/article/Details/PGL-010)
+- [Program Sythesis 2018 (Polozov) **Blog**](https://alexpolozov.com/blog/program-synthesis-2018/)
+- [Program Synthesis Without Full Specifications for Novel Applications 2015 (Perelman) **Dissertation**](https://homes.cs.washington.edu/~djg/theses/perelman_dissertation.pdf)
+
+### Research
+- [Constraint-Based Synthesis of Datalog Programs 2017 (Albarghouthi, Koutris, Nai, Smith) **Conference paper**](https://link.springer.com/chapter/10.1007/978-3-319-66158-2_44)
+- [Syntax-guided synthesis 2013 (Alur, Bodik, Juniwal, Martin, Raghothaman, Seshia, Singh, Solar,-Lezama, Torlak, Udupa) **Conference paper**](https://ieeexplore-ieee-org.login.ezproxy.library.ualberta.ca/abstract/document/6679385)
