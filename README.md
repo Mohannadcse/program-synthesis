@@ -2,7 +2,7 @@
 
 ## Organizational Information
 * Offered in: Fall 2019
-* Time: ???
+* Time: TBD
 * Instructors: [Karim Ali](http://karimali.ca)
 
 ## Students
